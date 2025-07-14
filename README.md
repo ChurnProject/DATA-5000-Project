@@ -1,4 +1,4 @@
-## Telecom Customer Churn Prediction (Proposal Stage)
+## DATA5000 Project -  Predicting Customer Churn (Proposal Stage)
 
 This project explores the use of machine learning to predict customer churn in the telecom industry using the **Telco Customer Churn** dataset from IBM (via Kaggle). Customer churn -- when a user leaves for a competitor -- is a critical business issue, and predicting it accurately can help telecom providers retain valuable customers.
 
