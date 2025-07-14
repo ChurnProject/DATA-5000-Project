@@ -8,7 +8,7 @@ This project explores the use of machine learning to predict customer churn in t
 - Identify key features driving churn
 - Compare results with prior research (Wu & Liu, 2021)
 
-###  Tools & Technologies
+###  Tools
 - **Python**, **pandas**, **NumPy**
 - **scikit-learn**, **Matplotlib**, **seaborn**
 - Jupyter Notebook / Google Colab
